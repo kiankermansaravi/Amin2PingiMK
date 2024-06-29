@@ -1,0 +1,9 @@
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Amin2Pingi.dir
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Amin2Pingi_autogen_timestamp_deps.dir
+D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Amin2Pingi_autogen.dir

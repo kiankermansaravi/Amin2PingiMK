@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e6c2141adacc449dedf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Amin2Pingi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Amin2Pingi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Amin2Pingi-Debug-41f1b4424b006d36dd66.json",
+					"name" : "Amin2Pingi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Amin2Pingi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Amin2Pingi_autogen-Debug-da7a7851e6217e498cdf.json",
+					"name" : "Amin2Pingi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Amin2Pingi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Amin2Pingi_autogen_timestamp_deps-Debug-8df9bc8c652042eebd36.json",
+					"name" : "Amin2Pingi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "D:/AP_Project/Amin2Pingi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

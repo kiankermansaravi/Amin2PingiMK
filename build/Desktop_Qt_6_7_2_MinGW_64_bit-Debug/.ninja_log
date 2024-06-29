@@ -1,0 +1,10 @@
+# ninja log v6
+611	2263	7413751300821394	CMakeFiles/Amin2Pingi.dir/Amin2Pingi_autogen/mocs_compilation.cpp.obj	9d0eb691cf1b970d
+35	214	7413753260513853	Amin2Pingi_autogen/timestamp	19ff54ae0b0b1bb4
+35	214	7413753260513853	Amin2Pingi_autogen/mocs_compilation.cpp	19ff54ae0b0b1bb4
+1819	1979	7413753278338183	Amin2Pingi.exe	f49bc238d34a7f28
+35	214	7413753260513853	D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Amin2Pingi_autogen/timestamp	19ff54ae0b0b1bb4
+215	1819	7413753262309123	CMakeFiles/Amin2Pingi.dir/amin2pingi.cpp.obj	4baf9c492d520e56
+35	214	7413753260513853	D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Amin2Pingi_autogen/mocs_compilation.cpp	19ff54ae0b0b1bb4
+615	2339	7413751300867125	CMakeFiles/Amin2Pingi.dir/main.cpp.obj	cdfb0393c0115b4d
+3	678	7413755318741858	build.ninja	14a6e63fce15f80e
