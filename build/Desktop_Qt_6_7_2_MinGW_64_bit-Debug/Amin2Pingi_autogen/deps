@@ -518,11 +518,25 @@ Amin2Pingi_autogen/timestamp: \
 	D:/AP_Project/Amin2Pingi/CMakeLists.txt \
 	D:/AP_Project/Amin2Pingi/amin2pingi.cpp \
 	D:/AP_Project/Amin2Pingi/amin2pingi.h \
+	D:/AP_Project/Amin2Pingi/animal.cpp \
+	D:/AP_Project/Amin2Pingi/animal.h \
+	D:/AP_Project/Amin2Pingi/bodyobject.cpp \
+	D:/AP_Project/Amin2Pingi/bodyobject.h \
 	D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Amin2Pingi_autogen/moc_predefs.h \
 	D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
 	D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake \
 	D:/AP_Project/Amin2Pingi/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake \
+	D:/AP_Project/Amin2Pingi/decorator.cpp \
+	D:/AP_Project/Amin2Pingi/decorator.h \
+	D:/AP_Project/Amin2Pingi/game.cpp \
+	D:/AP_Project/Amin2Pingi/game.h \
 	D:/AP_Project/Amin2Pingi/main.cpp \
+	D:/AP_Project/Amin2Pingi/platform.cpp \
+	D:/AP_Project/Amin2Pingi/platform.h \
+	D:/AP_Project/Amin2Pingi/player.cpp \
+	D:/AP_Project/Amin2Pingi/player.h \
+	D:/AP_Project/Amin2Pingi/position.cpp \
+	D:/AP_Project/Amin2Pingi/position.h \
 	D:/AP_Project/Amin2Pingi/amin2pingi.ui \
 	D:/707/Tools/CMake_64/bin/cmake.exe
